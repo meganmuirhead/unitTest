@@ -1,0 +1,14 @@
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/UnitTest.deps.json
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/UnitTest.runtimeconfig.json
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/UnitTest.runtimeconfig.dev.json
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/UnitTest.dll
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/UnitTest.pdb
+/Users/meganmuirhead/UnitTest/obj/Debug/netcoreapp2.2/UnitTest.csprojAssemblyReference.cache
+/Users/meganmuirhead/UnitTest/obj/Debug/netcoreapp2.2/UnitTest.csproj.CoreCompileInputs.cache
+/Users/meganmuirhead/UnitTest/obj/Debug/netcoreapp2.2/UnitTest.AssemblyInfoInputs.cache
+/Users/meganmuirhead/UnitTest/obj/Debug/netcoreapp2.2/UnitTest.AssemblyInfo.cs
+/Users/meganmuirhead/UnitTest/obj/Debug/netcoreapp2.2/UnitTest.dll
+/Users/meganmuirhead/UnitTest/obj/Debug/netcoreapp2.2/UnitTest.pdb
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/meganmuirhead/UnitTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
